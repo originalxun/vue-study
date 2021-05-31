@@ -23,7 +23,7 @@ export default {
 					id: 1
 				},
 				query:{
-					name: "张三"
+					name: "王木木"
 				}
 			},
 			userinfo1:{
@@ -31,7 +31,7 @@ export default {
 					id: 2
 				},
 				query:{
-					name:"李湘"
+					name:"李阿树"
 				}
 			},
         }
